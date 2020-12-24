@@ -29,6 +29,7 @@ defaults:
 
 navigation:
   - {file: "index.html", icon: home}
+  - {file: "people.md"}
   - {file: "README.md", icon: address-card}
 
 external:                  # see http://fontawesome.com/icons

@@ -1,6 +1,7 @@
 ---
 title:  "BUCLD poster: Schuler (2020) Children and adults condition variable rules on social context"
 mathjax: true
+author: katie
 layout: post
 category: poster
 ---

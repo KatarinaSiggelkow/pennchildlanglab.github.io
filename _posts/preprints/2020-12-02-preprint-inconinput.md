@@ -2,6 +2,7 @@
 title:  "Austin, Schuler, Furlong, & Newport (under review) Learning a language from inconsistent input: Regularization in child and adult learners | Preprint"
 mathjax: true
 layout: post
+author: katie
 categories: preprint
 ---
 

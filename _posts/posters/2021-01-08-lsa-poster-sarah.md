@@ -2,6 +2,7 @@
 title:  "LSA poster: Nam & Schuler (2021) The Influence of Verb Information on Learning Novel Words"
 mathjax: true
 layout: post
+author: katie
 categories: poster
 ---
 

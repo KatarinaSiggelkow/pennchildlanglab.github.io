@@ -1,8 +1,9 @@
 ---
 title:  "Commentary: Schuler, Kodner, & Caplan (2020) Abstractions are good for brains and machines: A commentary on Ambridge (2020)"
 mathjax: true
+author: katie
 layout: post
-category: commentary
+category: paper
 ---
 
 

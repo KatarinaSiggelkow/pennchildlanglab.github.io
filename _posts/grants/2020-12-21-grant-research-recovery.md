@@ -2,6 +2,7 @@
 title:  "Grant awarded: UPenn Research Recovery"
 mathjax: true
 layout: post
+author: katie
 categories: grant
 ---
 

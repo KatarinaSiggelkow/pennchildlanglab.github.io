@@ -2,6 +2,7 @@
 title:  "(CANCELLED) PLC talk: Chen & Schuler (2020) Does Learner's preference match the typological pattern for Animacy Hierarchy in morphological marking?"
 mathjax: true
 layout: post
+author: katie
 category: talk
 ---
 

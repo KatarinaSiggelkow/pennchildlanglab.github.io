@@ -3,7 +3,7 @@ title:  "Grant awarded: UPenn Research Recovery"
 mathjax: true
 layout: post
 author: katie
-categories: grant
+category: grant
 ---
 
 Today we shared a new preprint on [Learning a language from inconsistent input: Regularization in child and adults learners](https://psyarxiv.com/kgz9x). This is work with Alison Austin, Sarah Furlong, and Elissa Newport. 

@@ -3,7 +3,7 @@ title:  "LSA talk: Kendrick & Schuler (2021) Adults do not regularize unpredicta
 mathjax: true
 layout: post
 author: katie
-categories: talk
+category: Talk
 ---
 
 

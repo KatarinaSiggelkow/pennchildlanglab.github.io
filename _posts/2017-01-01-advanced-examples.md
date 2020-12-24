@@ -2,6 +2,7 @@
 title:  "Advanced examples"
 mathjax: true
 layout: post
+author: katie
 categories: media
 ---
 

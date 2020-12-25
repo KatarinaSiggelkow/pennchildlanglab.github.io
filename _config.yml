@@ -28,7 +28,6 @@ defaults:
       layout: "author"
 
 navigation:
-  - {file: "index.html", icon: home}
   - {file: "research.md"}
   - {file: "people.md"}
   - {file: "README.md", icon: address-card}

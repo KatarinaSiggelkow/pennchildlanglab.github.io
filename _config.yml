@@ -29,8 +29,7 @@ defaults:
 
 navigation:
   - {file: "research.md"}
-  - {file: "people.md"}
-  - {file: "README.md", icon: address-card}
+  - {file: "about.md"}
 
 external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:childlanglab@sas.upenn.edu"}

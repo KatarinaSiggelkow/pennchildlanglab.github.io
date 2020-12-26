@@ -28,8 +28,8 @@ defaults:
       layout: "author"
 
 navigation:
-  - {file: "research.md"}
   - {file: "people.md"}
+  - {file: "research.md"}
   - {file: "README.md", icon: address-card}
 
 external:                  # see http://fontawesome.com/icons

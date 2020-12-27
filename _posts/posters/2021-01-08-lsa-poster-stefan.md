@@ -1,9 +1,9 @@
 ---
-title:  "LSA poster: Pophristic & Schuler (2021) The Role of Gender in the Acquisition of the Serbian Case System"
+title:  "Pophristic & Schuler (2021) The Role of Gender in the Acquisition of the Serbian Case System"
 mathjax: true
 layout: post
 author: katie
-categories: poster
+category: Poster
 ---
 
 

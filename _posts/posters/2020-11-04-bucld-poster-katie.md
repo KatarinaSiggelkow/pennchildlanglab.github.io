@@ -1,9 +1,9 @@
 ---
-title:  "BUCLD poster: Schuler (2020) Children and adults condition variable rules on social context"
+title:  "Schuler (2020) Children and adults condition variable rules on social context. *poster at BUCLD*"
 mathjax: true
 author: katie
 layout: post
-category: poster
+category: Poster
 ---
 
 Today we shared a new preprint on [Learning a language from inconsistent input: Regularization in child and adults learners](https://psyarxiv.com/kgz9x). This is work with Alison Austin, Sarah Furlong, and Elissa Newport. 

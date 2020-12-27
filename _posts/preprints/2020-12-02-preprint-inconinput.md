@@ -1,9 +1,9 @@
 ---
-title:  "Austin, Schuler, Furlong, & Newport (under review) Learning a language from inconsistent input: Regularization in child and adult learners | Preprint"
+title:  "Austin, Schuler, Furlong, & Newport (under review) Learning a language from inconsistent input: Regularization in child and adult learners"
 mathjax: true
 layout: post
 author: katie
-categories: preprint
+category: Preprint
 ---
 
 Today we shared a new preprint on [Learning a language from inconsistent input: Regularization in child and adults learners](https://psyarxiv.com/kgz9x). This is work with Alison Austin, Sarah Furlong, and Elissa Newport. 

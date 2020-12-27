@@ -3,7 +3,7 @@ title:  "Nam & Schuler (2021) The Influence of Verb Information on Learning Nove
 mathjax: true
 layout: post
 author: katie
-categories: poster
+category: Poster
 ---
 
 

@@ -30,6 +30,7 @@ defaults:
 navigation:
   - {file: "about.md"}
   - {file: "research.md"}
+  - {file: "participants"md}
 
 
 external:                  # see http://fontawesome.com/icons

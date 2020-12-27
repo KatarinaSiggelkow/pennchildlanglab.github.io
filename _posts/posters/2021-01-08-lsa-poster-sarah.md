@@ -1,5 +1,5 @@
 ---
-title:  "Nam & Schuler (2021) The Influence of Verb Information on Learning Novel Words *poster at LSA*"
+title:  "Nam & Schuler (2021) The Influence of Verb Information on Learning Novel Words"
 mathjax: true
 layout: post
 author: katie

@@ -1,5 +1,5 @@
 ---
-title: "Partcipate"
+title: "Participate"
 permalink: "/participate/"
 layout: page
 ---

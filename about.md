@@ -10,11 +10,19 @@ We're a small team of researchers in the [Department of Linguistics](http://www.
 
 <div align="center">
 {% for author in site.authors %}
-        <figure>
+        | <figure>
                 <img src='../assets/images/{{ author.short_name }}.png' alt='{{ author.short_name }}' /> 
                 <figcaption><strong><a href="{{ author.url }}">{{ author.name }}</a></strong>
                 <br> {{ author.position }} </figcaption>
-        </figure>
+        </figure> | <figure>
+                <img src='../assets/images/{{ author.short_name }}.png' alt='{{ author.short_name }}' /> 
+                <figcaption><strong><a href="{{ author.url }}">{{ author.name }}</a></strong>
+                <br> {{ author.position }} </figcaption>
+        </figure> | <figure>
+                <img src='../assets/images/{{ author.short_name }}.png' alt='{{ author.short_name }}' /> 
+                <figcaption><strong><a href="{{ author.url }}">{{ author.name }}</a></strong>
+                <br> {{ author.position }} </figcaption>
+        </figure>  |
 {% endfor %}
 </div>
 

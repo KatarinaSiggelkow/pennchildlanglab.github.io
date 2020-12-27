@@ -3,7 +3,7 @@ title:  "(CANCELLED) PLC talk: Chen & Schuler (2020) Does Learner's preference m
 mathjax: true
 layout: post
 author: katie
-category: talk
+category: Talk
 ---
 
 Lab graduate student was to give a talk on her work investigating the animacy heirarcy at the Penn Linguistics Conference this year, but it was cancelled due to COVID-19. 

@@ -28,9 +28,9 @@ defaults:
       layout: "author"
 
 navigation:
-  - {file: "people.md"}
+  - {file: "about.md"}
   - {file: "research.md"}
-  - {file: "README.md", icon: address-card}
+
 
 external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:childlanglab@sas.upenn.edu"}

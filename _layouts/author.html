@@ -10,15 +10,13 @@ layout: default
 {{ content }}
 
 {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
+{% assign author_grants = filtered_posts | where 'categories, 'Grant' %}
 
-{% if filtered_posts.categories contains "Grant" %}
   <h2> Grants </h2>
   <ul>
-    {% for post in filtered_posts | where: 'categories', 'Grant' %}
+    {% for post in author_grants %}
       <li><a href="{{ post.url | relative_url}}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
-
-  {% endif %}
 
 </article>

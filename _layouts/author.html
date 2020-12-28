@@ -11,18 +11,11 @@ layout: default
 
 {% assign filtered_posts = site.posts | where: 'author', page.short_name | group_by: 'category' %}
 
-<!-- {% assign author_categories = filtered_posts.categories.Grant %}
-{% assign author_categories = author_categories | concat filtered_posts.categories.paper %}
-{% assign author_categories = author_categories | concat filtered_posts.categories.talk %}
-{% assign author_categories = author_categories | concat filtered_posts.categories.poster %} -->
+
 
 {% for group in filtered_posts %}
     <h2> {{ group.name }} </h2>
-    <!-- <ul>
-      {% for post in filtered_posts | where: 'categories', {{ category }} %}
-        <li><a href="{{ post.url | relative_url}}">{{ post.title }}</a></li>
-      {% endfor %}
-    </ul> -->
+
 {% endfor %}
 
 </article>

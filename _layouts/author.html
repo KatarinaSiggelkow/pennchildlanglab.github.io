@@ -8,12 +8,13 @@ layout: default
   </header>
 
 {{ content }}
-  
-  <h2> Lab activities </h2>
 
+{% assign filtered_posts = site.posts | where: 'author', page.short_name %}
+
+{% if filtered_posts.categories contains "Grant" %}
+  <h2> Grants </h2>
   <ul>
-    {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
-    {% for post in filtered_posts %}
+    {% for post in filtered_posts | where: 'categories', 'Grant' %}
       <li><a href="{{ post.url | relative_url}}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>

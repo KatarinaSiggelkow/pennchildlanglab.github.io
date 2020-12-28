@@ -18,11 +18,11 @@ layout: default
 
 {% for category in filtered_posts.categories %}
     <h2> {{ category }} </h2>
-    <ul>
+    <!-- <ul>
       {% for post in filtered_posts | where: 'categories', {{ category }} %}
         <li><a href="{{ post.url | relative_url}}">{{ post.title }}</a></li>
       {% endfor %}
-    </ul>
+    </ul> -->
 {% endfor %}
 
 </article>

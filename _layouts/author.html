@@ -11,12 +11,12 @@ layout: default
 
 {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
 
-{% assign author_categories = filtered_posts.categories.Grant %}
+<!-- {% assign author_categories = filtered_posts.categories.Grant %}
 {% assign author_categories = author_categories | concat filtered_posts.categories.paper %}
 {% assign author_categories = author_categories | concat filtered_posts.categories.talk %}
-{% assign author_categories = author_categories | concat filtered_posts.categories.poster %}
+{% assign author_categories = author_categories | concat filtered_posts.categories.poster %} -->
 
-{% for category in author_categories %}
+{% for category in filtered_posts.categories %}
     <h2> {{ category }} </h2>
     <ul>
       {% for post in filtered_posts | where: 'categories', {{ category }} %}

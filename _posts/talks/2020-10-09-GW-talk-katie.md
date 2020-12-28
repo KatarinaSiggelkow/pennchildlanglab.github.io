@@ -1,9 +1,7 @@
 ---
 title:  "Forming categories and making generalizations: lessons from child language acquisition"
 mathjax: true
-layout: post
 author: katie
-icon: chalkboard-teacher
 category: Talk
 ---
 

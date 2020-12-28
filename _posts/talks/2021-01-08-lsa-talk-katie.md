@@ -1,9 +1,9 @@
 ---
 title:  "Schuler & Chen (2021) Morphosyntactic variation is preserved, not regularized, when an optional form is rare"
 mathjax: true
-author: katie
-layout: post
-icon: chalkboard-teacher
+author: 
+    - katie
+    - yiran
 category: Talk
 ---
 

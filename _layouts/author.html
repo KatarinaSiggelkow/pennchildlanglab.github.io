@@ -10,13 +10,18 @@ layout: default
 {{ content }}
 
 {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
-{% assign author_grants = filtered_posts | where: 'categories', 'Grant' %}
 
-  <h2> Grants </h2>
-  <ul>
-    {% for post in author_grants %}
-      <li><a href="{{ post.url | relative_url}}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+{% assign author_categories = filtered_posts.categories.Grant %}
+{% assign author_categories = author_categories | concat filtered_posts.categories.paper %}
+{% assign author_categories = author_categories | concat filtered_posts.categories.talk %}
+{% assign author_categories = author_categories | concat filtered_posts.categories.poster %}
+
+{% for category in author_categories %}
+    <h2> {{ category }} </h2>
+    <ul>
+      {% for post in filtered_posts | where: 'categories', {{ category }} %}
+        <li><a href="{{ post.url | relative_url}}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
 
 </article>

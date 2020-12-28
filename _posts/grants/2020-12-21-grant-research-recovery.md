@@ -1,6 +1,7 @@
 ---
 title:  "University of Pennsylvania awards our lab a Research Recovery grant"
 mathjax: true
+icon: github
 layout: post
 author: katie
 category: Grant

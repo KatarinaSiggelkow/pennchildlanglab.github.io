@@ -3,6 +3,7 @@ title:  "Kendrick & Schuler (2021) Adults do not regularize unpredictable langua
 mathjax: true
 layout: post
 author: katie
+icon: chalkboard-teacher
 category: Talk
 ---
 

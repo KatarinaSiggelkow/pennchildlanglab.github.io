@@ -3,6 +3,7 @@ title:  "Forming categories and making generalizations: lessons from child langu
 mathjax: true
 layout: post
 author: katie
+icon: chalkboard-teacher
 category: Talk
 ---
 

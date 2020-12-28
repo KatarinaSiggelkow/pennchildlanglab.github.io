@@ -3,6 +3,7 @@ title:  "Schuler & Chen (2021) Morphosyntactic variation is preserved, not regul
 mathjax: true
 author: katie
 layout: post
+icon: chalkboard-teacher
 category: Talk
 ---
 

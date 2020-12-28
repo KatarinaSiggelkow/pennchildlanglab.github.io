@@ -3,6 +3,7 @@ title:  "Advanced examples"
 mathjax: true
 layout: post
 author: katie
+icon: chalkboard-teacher
 categories: media
 ---
 

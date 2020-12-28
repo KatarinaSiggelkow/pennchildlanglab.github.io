@@ -1,6 +1,7 @@
 ---
 title:  "(CANCELLED) Chen & Schuler (2020) Does Learner's preference match the typological pattern for Animacy Hierarchy in morphological marking?"
 mathjax: true
+icon: chalkboard-teacher
 layout: post
 author: katie
 category: Talk

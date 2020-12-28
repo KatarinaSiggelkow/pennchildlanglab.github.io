@@ -9,7 +9,7 @@ layout: default
 
 {{ content }}
 
-{% assign filtered_posts = site.posts | where: 'author', page.short_name | group_by: 'category' %}
+{% assign filtered_posts = site.posts | where: 'author', page.short_name | group_by: 'category' | sort %}
 
 
 

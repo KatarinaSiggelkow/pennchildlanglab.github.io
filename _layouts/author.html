@@ -10,7 +10,7 @@ layout: default
 {{ content }}
 
 {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
-{% assign author_grants = filtered_posts | where 'categories', 'Grant' %}
+{% assign author_grants = filtered_posts | where: 'categories', 'Grant' %}
 
   <h2> Grants </h2>
   <ul>

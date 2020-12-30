@@ -4,4 +4,4 @@ name: Annalise Kendrick
 position: Research Assistant
 ---
 
-Annalise is an undergraduate at Eckerd College and a remote research assistant in our lab.
+Annalise is an undergraduate at Eckerd College and a research assistant in our lab.

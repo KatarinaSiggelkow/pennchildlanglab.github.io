@@ -4,6 +4,7 @@ permalink: "/for-you/"
 layout: page
 ---
 
+Sharing knowledge is important to us. One of the 
 
 ### Website
 

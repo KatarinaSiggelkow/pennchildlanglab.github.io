@@ -28,6 +28,6 @@ Inside the lab's wiki, you'll find our [Lab Handbook](https://wiki.childlanglab.
 
 We mostly analyze data in Jupyter notebooks via Jupterlab, but some lab members prefer RStudio. We have a JupyterHub running on a server so we can access our work from any browser. Here is some more information about our lab's workflow:
 
-- [How to install The Littlest JupyterHub on a Digital Ocean server for your lab]()
-- [Jupyter workflow I: working on shared lab code with the jupyterlab-git extension]()
-- [Jupyter workflow II: sharing executable notebooks with others via binder]()
+- [How to install The Littlest JupyterHub on a Digital Ocean server for your lab](tljh-digital-ocean)
+- [Our Jupyter Workflow part I: working on shared lab code with the jupyterlab-git extension]()
+- [Our Jupyter Workflow part II: sharing executable notebooks with others via binder]()

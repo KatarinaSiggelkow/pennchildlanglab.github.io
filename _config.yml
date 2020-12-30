@@ -25,6 +25,12 @@ defaults:
   -
     scope:
       path: ""
+      type: "resources"
+    values:
+      layout: "resource"
+  -
+    scope:
+      path: ""
       type: "authors"
     values:
       layout: "author"

@@ -27,7 +27,7 @@ defaults:
       path: ""
       type: "resources"
     values:
-      layout: "resource"
+      layout: "post"
   -
     scope:
       path: ""

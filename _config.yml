@@ -18,6 +18,8 @@ show_sidebar: false        # show a sidebar instead of the usual header
 collections:
   authors:
     output: true
+  resources:
+    output: true
     
 defaults:
   -

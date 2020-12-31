@@ -12,12 +12,12 @@ layout: default
 
 {% assign filtered_posts = site.posts | where: 'author', page.short_name | group_by: 'category' %}
 {% if filtered_posts %}
-  <h3>Lab accomplishments</h3>
+  <h2>Lab accomplishments</h2>
 
   {% for cat in site.categories-order %}
     {% assign currentCat = filtered_posts | where: 'name', cat | first %}
       {% if currentCat %}
-        <h4> {{ currentCat.name }}s </h4>
+        <h3> {{ currentCat.name }}s </h3>
       
         <ul>
           {% for item in currentCat.items %}

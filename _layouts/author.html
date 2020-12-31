@@ -16,7 +16,7 @@ layout: default
 
 {% for cat in site.categories-order %}
   {% assign currentCat = filtered_posts | where: 'name', cat | first %}
-    {% unless currentCat == blank %}
+    {% unless currentCat.name == blank %}
       <h3> {{ currentCat.name }}s </h3>
     
       <ul>

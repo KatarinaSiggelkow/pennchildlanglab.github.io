@@ -43,11 +43,11 @@ defaults:
 
 # categories for authors page
 categories-order:
- - preprint
- - paper
- - grant
- - talk
- - poster
+ - Preprint
+ - Paper
+ - Grant
+ - Talk
+ - Poster
 
 navigation:
   - {file: "about.md"}

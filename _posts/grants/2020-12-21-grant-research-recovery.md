@@ -5,4 +5,4 @@ author: katie
 category: Grant
 ---
 
-Penn has awarded our lab a [Research Recovery grant](https://research.upenn.edu/funding/research-recovery-program/) to help us conduct remote research with children and their families during covid and beyond.
+Penn awarded our lab a [Research Recovery grant](https://research.upenn.edu/funding/research-recovery-program/) to help us conduct remote research with children and their families during covid and beyond.

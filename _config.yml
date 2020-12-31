@@ -50,10 +50,10 @@ categories-order:
  - Poster
 
 navigation:
-  - {file: "about.md"}
+  - {file: "people.md"}
   - {file: "research.md"}
   - {file: "participate.md"}
-  - {file: "for-you.md"}
+  - {file: "resources.md"}
 
 
 external:                  # see http://fontawesome.com/icons

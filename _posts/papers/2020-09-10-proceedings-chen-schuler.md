@@ -1,5 +1,5 @@
 ---
-title:  "Chen & Schuler (2020) Do Learner's preferences match the typological pattern of Animacy Heirarchy in morphological marking?"
+title:  "Chen & Schuler (forthcoming) Do Learner's preferences match the typological pattern of Animacy Heirarchy in morphological marking?"
 mathjax: true
 author: 
     - yiran

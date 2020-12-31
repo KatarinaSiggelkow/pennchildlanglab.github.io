@@ -11,7 +11,7 @@ layout: default
 
 
 {% assign filtered_posts = site.posts | where: 'author', page.short_name | group_by: 'category' %}
-{% if filtered_posts %}
+{% if filtered_posts.size > 0 %}
   <h2>Lab accomplishments</h2>
 
   {% for cat in site.categories-order %}

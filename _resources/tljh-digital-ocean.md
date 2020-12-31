@@ -3,7 +3,12 @@ title:  "How to install The Littlest JupyterHub on a Digital Ocean server for yo
 mathjax: true
 author: katie
 category: jupyter
+order: 1
 ---
+
+### Prereqs
+
+https://education.github.com/pack
 
 ## Installing TLJH on Digital Ocean
 

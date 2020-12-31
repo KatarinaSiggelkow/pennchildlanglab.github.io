@@ -12,12 +12,12 @@ layout: default
 {% assign filtered_posts = site.posts | where: 'author', page.short_name | group_by: 'category' %}
 
 
-
-{% for group in filtered_posts %}
-    <h3> {{ group.name }}s </h3>
+{% for cat in site.categories-order %}
+  {% assign currentCat = filtered_posts | where: 'name', cat | first %}
+    <h3> {{ currentCat.name }}s </h3>
   
     <ul>
-      {% for item in group.items %}
+      {% for item in currentCat.items %}
         <li> <a href="{{ item.url }}">{{ item.title }}</a> </li>
       {% endfor %}
     </ul>

@@ -13,14 +13,14 @@ show_excerpts: false       # show article excerpts on the home page
 show_frame: false          # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 
-# Menu
-
+# collections
 collections:
   authors:
     output: true
   resources:
     output: true
-    
+
+# default layouts
 defaults:
   -
     scope:
@@ -40,6 +40,14 @@ defaults:
       type: "posts"
     values:
         layout: "post"
+
+# categories for authors page
+categories-order:
+ - preprint
+ - paper
+ - grant
+ - talk
+ - poster
 
 navigation:
   - {file: "about.md"}

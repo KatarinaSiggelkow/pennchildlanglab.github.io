@@ -9,6 +9,8 @@ layout: default
 
 {{ content }}
 
+<h2>Recent work in the lab</h2>
+
 {% assign filtered_posts = site.posts | where: 'author', page.short_name | group_by: 'category' %}
 
 

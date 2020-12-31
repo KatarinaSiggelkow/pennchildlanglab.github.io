@@ -14,13 +14,15 @@ layout: default
 
 {% for cat in site.categories-order %}
   {% assign currentCat = filtered_posts | where: 'name', cat | first %}
-    <h3> {{ currentCat.name }}s </h3>
-  
-    <ul>
-      {% for item in currentCat.items %}
-        <li> <a href="{{ item.url }}">{{ item.title }}</a> </li>
-      {% endfor %}
-    </ul>
+    {% unless currentCat == blank %}
+      <h3> {{ currentCat.name }}s </h3>
+    
+      <ul>
+        {% for item in currentCat.items %}
+          <li> <a href="{{ item.url }}">{{ item.title }}</a> </li>
+        {% endfor %}
+      </ul>
+    {% endunless %}
 {% endfor %}
 
 </article>

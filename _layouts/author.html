@@ -9,22 +9,23 @@ layout: default
 
 {{ content }}
 
-<h2>Recent work in the lab</h2>
 
 {% assign filtered_posts = site.posts | where: 'author', page.short_name | group_by: 'category' %}
+{% if filtered_posts %}
+  <h3>Lab accomplishments</h3>
 
-
-{% for cat in site.categories-order %}
-  {% assign currentCat = filtered_posts | where: 'name', cat | first %}
-    {% unless currentCat.name == blank %}
-      <h3> {{ currentCat.name }}s </h3>
-    
-      <ul>
-        {% for item in currentCat.items %}
-          <li> <a href="{{ item.url }}">{{ item.title }}</a> </li>
-        {% endfor %}
-      </ul>
-    {% endunless %}
-{% endfor %}
+  {% for cat in site.categories-order %}
+    {% assign currentCat = filtered_posts | where: 'name', cat | first %}
+      {% if currentCat %}
+        <h4> {{ currentCat.name }}s </h4>
+      
+        <ul>
+          {% for item in currentCat.items %}
+            <li> <a href="{{ item.url }}">{{ item.title }}</a> </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+  {% endfor %}
+{% endif %}
 
 </article>

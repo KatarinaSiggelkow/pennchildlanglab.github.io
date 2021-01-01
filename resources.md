@@ -4,7 +4,7 @@ permalink: "/resources/"
 layout: page
 ---
 
-Sharing knowledge is important to us. We've been helped by many generous friends and mentors who have taken the time to share what they know and show us how to do things. We want to pay it forward, so we've linked some resources to help you learn how we do things in our lab. Feel free to borrow or adapt anything you like. 
+Sharing knowledge is important to us, so we've linked some resources to help you learn how we do things in our lab. Feel free to borrow or adapt anything you like. 
 
 
 - [Lab website](): Our website is hosted with [Github Pages](https://pages.github.com/) and uses the [constrast](https://github.com/niklasbuschmann/contrast) theme for jekyll. Hosting with Github Pages is free for everyone and setting up a website is straightforward.

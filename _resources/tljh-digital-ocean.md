@@ -1,26 +1,25 @@
 ---
-title:  "How to install The Littlest JupyterHub on a Digital Ocean server for your lab"
+title:  "How to deploy a JupyterHub in the cloud for your department or lab"
 mathjax: true
 author: katie
 category: jupyter
-order: 1
 ---
 
-### Prereqs
+## Tutorial 
+
+### Setup a digital ocean cloud
 
 https://education.github.com/pack
 
-## Installing TLJH on Digital Ocean
+### Install TLJH with the datascience plugin
 
-## Additional setup
+### Optional additional setup
 
-### Add HTTPS and a custom URL
+#### Adding HTTPS and a custom URL
 
-### Allow users to authenticate with Github 
-
-### Docker images
+#### Allow users to authenticate with Github 
 
 #### Add new docker images to the allowlist
 
-#### Customize a docker image for your lab 
+<!-- #### Customize a docker image for your lab  -->
 

@@ -1,5 +1,6 @@
 ---
 title:  "(2017) Katie's daughter Joan is born!"
+specifics: "some good news"
 mathjax: true
 author: katie
 category: News

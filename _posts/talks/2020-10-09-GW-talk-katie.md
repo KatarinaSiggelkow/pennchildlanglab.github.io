@@ -1,5 +1,6 @@
 ---
-title:  "Forming categories and making generalizations: lessons from child language acquisition"
+title:  "Schuler (2020) Forming categories and making generalizations: lessons from child language acquisition"
+specifics: "*invited talk at GW*"
 mathjax: true
 author: katie
 category: Talk

@@ -1,5 +1,6 @@
 ---
 title:  "Kendrick & Schuler (2021) Adults do not regularize unpredictable language variation, even when learning from an unreliable speaker"
+specifics: "talk at LSA"
 mathjax: true
 author: 
     - annalise

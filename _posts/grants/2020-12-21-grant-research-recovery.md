@@ -1,5 +1,5 @@
 ---
-title:  "(2020) University of Pennsylvania Research Recovery grant"
+title:  "(2020) University of Pennsylvania Research Recovery"
 specifics: "grant"
 mathjax: true
 author: katie

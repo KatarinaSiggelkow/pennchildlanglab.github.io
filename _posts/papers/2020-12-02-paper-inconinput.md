@@ -1,5 +1,6 @@
 ---
 title:  "Austin, Schuler, Furlong, & Newport (under review) Learning a language from inconsistent input: Regularization in child and adult learners"
+specifics: "paper"
 mathjax: true
 author: katie
 category: Paper

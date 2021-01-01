@@ -15,4 +15,5 @@ Children and families can participate at our lab in Philadelphia, PA or online v
 Penn students can participate (online or in person) by signing up for the psychology department's [SONA system](https://psychology.sas.upenn.edu/research/participate-research).  If you are not a Penn student, you can sign up to participate in online studies via [Prolific](https://www.prolific.co/participants). 
 
 
-
+### Join our team
+If you are interested in joining our research team, visit our [people page](../people#join-our-team) to lean more about open positions in our lab.

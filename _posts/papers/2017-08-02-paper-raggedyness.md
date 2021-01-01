@@ -1,5 +1,6 @@
 ---
 title:  "Schuler, Reeder, Newport, & Aslin (2017) The effect of Zipfian frequency variations on category formation in adult artificial language learning"
+specifics: "paper"
 mathjax: true
 author: katie
 category: Paper

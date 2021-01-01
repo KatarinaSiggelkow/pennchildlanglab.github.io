@@ -1,6 +1,6 @@
 ---
 title:  "Culbertson & Schuler (2019) Artificial language learning in children"
-speifics: "paper"
+specifics: "paper"
 mathjax: true
 author: katie
 category: Paper

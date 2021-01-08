@@ -7,6 +7,8 @@ category: jupyter
 
 ## Tutorial 
 
+*Video tutorial will be posted the week of Jan 11*
+
 ### Setup a digital ocean cloud
 
 https://education.github.com/pack

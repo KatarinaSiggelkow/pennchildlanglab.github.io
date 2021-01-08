@@ -10,3 +10,5 @@ category: Poster
 
 
 Lab undergraduate Stefan Pophristic is presenting a poster at the LSA 2021 Virtual Annual meeting on The Role of Gender in the Acquisition of Serbian Case System. 
+
+[Talk Slides](../assets/Pophristic_Schuler_LSA_2021.pdf)

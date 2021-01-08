@@ -17,8 +17,12 @@ layout: default
   {% for cat in site.categories-order %}
     {% assign currentCat = filtered_posts | where: 'name', cat | first %}
       {% if currentCat %}
-        <h3> {{ currentCat.name }}s </h3>
-      
+        {% if currentCat.name == "News" %}
+          <h3> {{ currentCat.name }} </h3>
+        {% else %}
+            <h3> {{ currentCat.name }}s </h3>
+
+        {% endif %}
         <ul>
           {% for item in currentCat.items %}
             <li> <a href="{{ item.url }}">{{ item.title }}</a> </li>

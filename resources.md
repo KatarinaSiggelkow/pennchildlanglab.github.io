@@ -15,7 +15,7 @@ Our website is hosted with [Github Pages](https://pages.github.com/) and uses th
 
 We like to analyze data in Jupyter notebooks via [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/), which is kind of like RStudio. Here is a [JupyterLab demo](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab/tree/demo) and below is some more information about our lab's workflow in case you'd like to borrow it: 
 
-- [How to analyze data with the jupyter/datascience-notebook](datascience-container)
+- [How to analyze data with the jupyter/datascience-notebook](2021-01-09-datascience-container)
 - [How to deploy a JupyterHub in the cloud for your department or lab](tljh-digital-ocean)
 - [Working on shared code with Jupyterlab and git]()
 - [Sharing your Jupyter notebooks with the scientific community]()

@@ -5,6 +5,7 @@ author: katie
 category: jupyter
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uIipJX7TfBw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Prereqs
 
@@ -13,8 +14,6 @@ You'll need to install [docker](https://docs.docker.com/get-docker/) on your mac
 ```
 git clone https://github.com/pennchildlanglab/docker-compose-demo.git
 ```
-
-## Video tutorial
 
 
 ## Docker compose

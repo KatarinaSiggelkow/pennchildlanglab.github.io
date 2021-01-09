@@ -5,7 +5,7 @@ author: katie
 category: jupyter
 ---
 
-*by [Katie Schuler](../../author/katie)*
+*by [Katie Schuler](../../01-01-katie/)*
 
 ## Prereqs
 

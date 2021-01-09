@@ -7,7 +7,7 @@ category: jupyter
 
 ## Prereqs
 
-You'll need to install [docker](https://docs.docker.com/get-docker/) on your machine. If you want to borrow my docker-compose.yml file, you can copy from this repository, or clone it using 
+You'll need to install [docker](https://docs.docker.com/get-docker/) on your machine. If you want to borrow our docker-compose.yml file, you can copy from this repository, or clone it using 
 
 ```
 git clone https://github.com/pennchildlanglab/docker-compose-demo.git

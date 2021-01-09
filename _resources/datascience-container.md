@@ -16,7 +16,7 @@ git clone https://github.com/pennchildlanglab/docker-compose-demo.git
 ## Video tutorial
 
 
-## Usinig docker compose
+## Docker compose
 
 You'll need a docker-compose.yml file that specifies the [image](https://hub.docker.com/r/jupyter/datascience-notebook/) you want to use, the password, the volume to map to, and the port you want to open on
 

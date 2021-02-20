@@ -11,3 +11,4 @@ category: Talk
 
 Lab undergraduate Annalise will be presenting a talk at LSA 2021 titled Adults do not regularize unpredictable language variation, even when learning from an unreliable speaker. 
 
+- [Talk Slides](../assets/Kendrick_Schuler_LSA_2021.pdf)

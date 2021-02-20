@@ -8,7 +8,9 @@ Sharing knowledge is important to us, so we've linked some resources to help you
 
 ### Websites and Wikis
 
-Our website is hosted with [Github Pages](https://pages.github.com/) and uses the [constrast](https://github.com/niklasbuschmann/contrast) theme (both free).  We write down how we do things in our [Lab Wiki](https://wiki.childlanglab.com/) to share we’ve learned with others. Inside you'll find our [Lab Handbook](https://wiki.childlanglab.com/resources/lab-handbook). Feel free to use either as a jumping off point to create your own -- we made them with [Gitbook](https://app.gitbook.com/).
+Our website is hosted with [Github Pages](https://pages.github.com/) and uses the [constrast](https://github.com/niklasbuschmann/contrast) theme.  We also keep a [Lab Wiki](https://wiki.childlanglab.com/) including our [Lab Handbook](https://wiki.childlanglab.com/resources/lab-handbook), to keep track of how we do things and share with others. Feel free to use ours as a jumping off point to create your own.
+
+- [How to create a free website with Gihub Pages]()
 
 
 ### Data Analysis

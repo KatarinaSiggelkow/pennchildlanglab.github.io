@@ -1,6 +1,6 @@
 ---
 title:  "Alberski & Schuler (2021) The role of language context in the acquisition of novel words"
-specifics: "poster at LSA"
+specifics: "poster at CUNY"
 mathjax: true
 author: 
     - ania

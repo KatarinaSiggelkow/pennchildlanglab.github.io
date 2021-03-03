@@ -3,7 +3,7 @@ title:  "Li & Schuler (2021) Acquiring recursive structures through distribution
 specifics: "talk at CUNY"
 mathjax: true
 author: 
-    - annalise
+    - daoxin
     - katie
 category: Talk
 ---

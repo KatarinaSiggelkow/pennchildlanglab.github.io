@@ -11,7 +11,7 @@ category: Talk
 
 Lab grad student Daoxin Li will be presenting a talk at CUNY 2021 titled Acquiring recursive structures through distributional learning.
 
-- [Talk Slides]()
+- [Talk Slides](../assets/Li_Schuler_2021-cuny-talk.pdf)
 
 
 
